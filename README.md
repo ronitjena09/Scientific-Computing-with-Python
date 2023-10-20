@@ -7,6 +7,8 @@
     Probability Calculator
 ## Used Python as a Programming Language.
 
-# Got this project from FreeCodeCamp
+# Project from FreeCodeCamp:
   [www.freecodecamp.org/](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/)https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/
 
+# Earned Certificate:
+  https://www.freecodecamp.org/certification/ronit_jena/scientific-computing-with-python-v7
